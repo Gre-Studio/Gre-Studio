@@ -10,7 +10,7 @@ Tous nos projets publics sont publiés sous licence **GNU GPLv3**. Vous êtes li
 ### 📫 Contact & Réseaux
 
 - **Discord** → @palmin.e / @antlevrai
-- **Instagram** → [grenoble.go]([https://grego.studio](https://www.instagram.com/grenoble.go/))
+- **Instagram** → [grenoble.go](https://www.instagram.com/grenoble.go/)
 
 ---
 
